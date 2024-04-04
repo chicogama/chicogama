@@ -1,5 +1,6 @@
 # 💫 About Me:
 My name is Josemar Gama<br>Technology and Coding makes me chill and happy; I love that ♥ See my Online CV and my Personal Blog here 
+<img src="https://www.notion.so/image/https%3A%2F%2Fmedia.tenor.com%2F9Qdih5bJFrAAAAAC%2Fousama-ranking-bojji.gif?table=block&id=2ae6239c-aac8-42c1-8fda-a37fb69e0b25&spaceId=e82f7d8e-da08-45b5-bf7f-e09b38dae006&userId=f73d02d8-73ac-4a0e-99c6-e729b38910a1&cache=v2">
 
 
 ## 🌐 Socials:
