@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Josemar Gama<br>Technology and Coding makes me chill and happy, I love that 
+My name is Josemar Gama<br>Technology and Coding makes me chill and happy; I love that ♥ See my Online CV and my Personal Blog here 
 
 
 ## 🌐 Socials:
@@ -14,6 +14,8 @@ My name is Josemar Gama<br>Technology and Coding makes me chill and happy, I lov
 
 ---
 [![](https://visitcount.itsvg.in/api?id=chicogama&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
